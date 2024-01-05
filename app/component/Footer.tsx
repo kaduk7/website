@@ -112,7 +112,7 @@ const Footer = () => {
     <div className="copyright">
       © Copyright{" "}
       <strong>
-        <span>Arsha</span>
+        <span>HizraTech</span>
       </strong>
       . All Rights Reserved
     </div>
@@ -121,7 +121,7 @@ const Footer = () => {
       {/* You can delete the links only if you purchased the pro version. */}
       {/* Licensing information: https://bootstrapmade.com/license/ */}
       {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ */}
-      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      Designed by <a href="https://bootstrapmade.com/">Hizra Tech</a>
     </div>
   </div>
 </footer>
