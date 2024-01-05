@@ -24,12 +24,11 @@ const Footer = () => {
     <div className="container">
       <div className="row">
         <div className="col-lg-3 col-md-6 footer-contact">
-          <h3>Arsha</h3>
+          <h3>HIZRATECH</h3>
           <p>
-            A108 Adam Street <br />
-            New York, NY 535022
+            Jl. Rambutan, No. 20D, Sidomulyo Timur, Kecamatan Marpoyan Damai, Pekanbaru <br />
             <br />
-            United States <br />
+            Indonesia <br />
             <br />
             <strong>Phone:</strong> +1 5589 55488 55
             <br />
