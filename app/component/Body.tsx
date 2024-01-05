@@ -67,16 +67,16 @@ const Body = () => {
                             </p>
                             <ul>
                                 <li>
-                                    <i className="ri-check-double-line" /> Ullamco laboris nisi ut
-                                    aliquip ex ea commodo consequat
+                                    <i className="ri-check-double-line" /> Microsoft
                                 </li>
                                 <li>
-                                    <i className="ri-check-double-line" /> Duis aute irure dolor in
-                                    reprehenderit in voluptate velit
+                                    <i className="ri-check-double-line" /> Mobile
                                 </li>
                                 <li>
-                                    <i className="ri-check-double-line" /> Ullamco laboris nisi ut
-                                    aliquip ex ea commodo consequat
+                                    <i className="ri-check-double-line" />Web
+                                </li>
+                                <li>
+                                    <i className="ri-check-double-line" />Java
                                 </li>
                             </ul>
                         </div>
