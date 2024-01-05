@@ -10,7 +10,7 @@ const Section = () => {
         data-aos="fade-up"
         data-aos-delay={200}
       >
-        <h1>Hizra Tech </h1>
+        <h1>Hizratech </h1>
         <h2>
           kami adalah konsultan IT yang bergerak di bidang website dan program aplikasi
         </h2>
