@@ -62,8 +62,8 @@ const Body = () => {
                     <div className="row content">
                         <div className="col-lg-6">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Mewujudkan sistem digital anda bersama kami PT hydratex konsultan
+                            Service menyediakan beragam ke fabilitas pengembangan perangkat lunak.
                             </p>
                             <ul>
                                 <li>
@@ -82,11 +82,8 @@ const Body = () => {
                         </div>
                         <div className="col-lg-6 pt-4 pt-lg-0">
                             <p>
-                                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                                irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                                eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                proident, sunt in culpa qui officia deserunt mollit anim id est
-                                laborum.
+                            Bekerjasama dengan berbagai instansi dan khalayak umum
+                            dan menjadi salah satu partner dalam menelpon kebutuhan sistem digital yang diperlukan seperti sistem manajemen kasir sistem keuangan aplikasi Adsense digital.
                             </p>
                             <a href="#" className="btn-learn-more">
                                 Learn More
