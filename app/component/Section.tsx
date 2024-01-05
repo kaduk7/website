@@ -10,9 +10,9 @@ const Section = () => {
         data-aos="fade-up"
         data-aos-delay={200}
       >
-        <h1>Better Solutions For Your Business</h1>
+        <h1>Hizra Tech </h1>
         <h2>
-          We are team of talented designers making websites with Bootstrap
+          kami adalah konsultan IT yang bergerak di bidang website dan program aplikasi
         </h2>
         <div className="d-flex justify-content-center justify-content-lg-start">
           <a href="#about" className="btn-get-started scrollto">
