@@ -18,13 +18,13 @@ const Section = () => {
               <a href="#about" className="btn-get-started scrollto">
                 Get Started
               </a>
-              <video 
+              <a
                 href="https://www.youtube.com/watch?v=jDDaplaOz7Q"
                 className="glightbox btn-watch-video"
               >
                 <i className="bi bi-play-circle" />
                 <span>Watch Video</span>
-              </video>
+              </a>
             </div>
           </div>
           <div
