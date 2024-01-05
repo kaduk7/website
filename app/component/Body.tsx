@@ -1100,7 +1100,7 @@ const Body = () => {
                                 <div className="address">
                                     <i className="bi bi-geo-alt" />
                                     <h4>Location:</h4>
-                                    <p>A108 Adam Street, New York, NY 535022</p>
+                                    <p>Jl. Rambutan, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289</p>
                                 </div>
                                 <div className="email">
                                     <i className="bi bi-envelope" />
@@ -1110,7 +1110,7 @@ const Body = () => {
                                 <div className="phone">
                                     <i className="bi bi-phone" />
                                     <h4>Call:</h4>
-                                    <p>+1 5589 55488 55s</p>
+                                    <p>+082283048013</p>
                                 </div>
                                 <iframe
                                     src="https://maps.app.goo.gl/xufi1pcQfuqJDo1N6"
