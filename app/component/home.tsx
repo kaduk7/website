@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Section = () => {
+const Home = () => {
   return (
     <section id="hero" className="d-flex align-items-center">
       <div className="container">
@@ -45,4 +45,4 @@ const Section = () => {
   )
 }
 
-export default Section
+export default Home

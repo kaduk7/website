@@ -36,7 +36,7 @@ export default function Header() {
             Team
           </a>
         </li>
-        <li className="dropdown">
+        {/* <li className="dropdown">
           <a href="#">
             <span>Drop Down</span> <i className="bi bi-chevron-down" />
           </a>
@@ -77,14 +77,14 @@ export default function Header() {
               <a href="#">Drop Down 4</a>
             </li>
           </ul>
-        </li>
+        </li> */}
         <li>
           <a className="nav-link scrollto" href="#contact">
             Contact
           </a>
         </li>
         <li>
-          <a className="getstarted scrollto" href="#about">
+          <a className="getstarted scrollto" href="#hero">
             Get Started
           </a>
         </li>

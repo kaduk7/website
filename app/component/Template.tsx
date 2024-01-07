@@ -3,9 +3,14 @@
 import '../../public/assets/css/style.css'
 import ScriptJs from './ScriptJs';
 import Header from './Header';
-import Section from './home';
 import Body from './Body';
 import Footer from './Footer';
+import Home from './home';
+import About from './About';
+import Servis from './Servis';
+import Portofolio from './Portofolio';
+import Team from './Team';
+import Kontak from './Kontak';
 
 function Template({ children }: { children: React.ReactNode }) {
     return (
@@ -18,8 +23,13 @@ function Template({ children }: { children: React.ReactNode }) {
             </div>
             <div id="main-wrapper">
                 <Header />
-                <Section/>
+                <Home/>
                 <Body/>
+                <About/>
+                <Servis/>
+                <Portofolio/>
+                <Team/>
+                <Kontak/>
                 <Footer/>
             </div>
             <ScriptJs />
