@@ -84,7 +84,7 @@ const About = () => {
                                             data-bs-target="#accordion-list-2"
                                             className="collapsed"
                                         >
-                                            <span>02</span> Feugiat scelerisque varius morbi enim nunc?{" "}
+                                            <span>02</span> Apakah Hizratech Sudah Pernah Membuat Aplikasi?{" "}
                                             <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
@@ -94,11 +94,9 @@ const About = () => {
                                             data-bs-parent=".accordion-list"
                                         >
                                             <p>
-                                                Dolor sit amet consectetur adipiscing elit pellentesque
-                                                habitant morbi. Id interdum velit laoreet id donec ultrices.
-                                                Fringilla phasellus faucibus scelerisque eleifend donec
-                                                pretium. Est pellentesque elit ullamcorper dignissim. Mauris
-                                                ultrices eros in cursus turpis massa tincidunt dui.
+                                                Sudah,Jadi Hizratech Sudah Pernah Membuat Aplikasi yang Bernama I-Cerdas,
+                                                Jadi I-Cerdas Ini Adalah Sebuah Aplikasi Untuk Ujian Para Siswa Mulai Dari
+                                                SD Sampai SMA Yang Teruji Di Berbagai Sekolah Yang Ada di Pekanbaru.
                                             </p>
                                         </div>
                                     </li>
@@ -108,7 +106,7 @@ const About = () => {
                                             data-bs-target="#accordion-list-3"
                                             className="collapsed"
                                         >
-                                            <span>03</span> Dolor sit amet consectetur adipiscing elit?{" "}
+                                            <span>03</span> Bagaimana Kinerja Dari Hizratech?{" "}
                                             <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
@@ -118,12 +116,10 @@ const About = () => {
                                             data-bs-parent=".accordion-list"
                                         >
                                             <p>
-                                                Eleifend mi in nulla posuere sollicitudin aliquam ultrices
-                                                sagittis orci. Faucibus pulvinar elementum integer enim. Sem
-                                                nulla pharetra diam sit amet nisl suscipit. Rutrum tellus
-                                                pellentesque eu tincidunt. Lectus urna duis convallis
-                                                convallis tellus. Urna molestie at elementum eu facilisis
-                                                sed odio morbi quis
+                                                Jadi Kinerja Kami Sudah Tidak Diragukan Lagi Dengan
+                                                Pengalaman Lebih Dari 10 Tahun Kami Sudah Jelas Mempunyai 
+                                                Kinerja Yang Sangat Baik Dan Kami juga Mempunyai Tim Yang Ahli Dalam 
+                                                Keahliannya Masing-Masing
                                             </p>
                                         </div>
                                     </li>

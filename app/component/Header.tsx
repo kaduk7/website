@@ -80,7 +80,7 @@ export default function Header() {
         </li> */}
             <li>
               <a className="nav-link scrollto" href="#contact">
-                Contact
+                Alamat
               </a>
             </li>
             <li>

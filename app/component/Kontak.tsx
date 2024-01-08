@@ -6,12 +6,9 @@ const Kontak = () => {
         <section id="contact" className="contact">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Contact</h2>
+                        <h2>Alamat</h2>
                         <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
+                            Hizratech Berada Di Kabupaten Kampar Kota Pekanbaru Yang Berada Di Wilayah Pulau Sumatra.
                         </p>
                     </div>
                     <div className="row">
