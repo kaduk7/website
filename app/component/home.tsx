@@ -28,12 +28,12 @@ const Home = () => {
             </div>
           </div>
           <div
-            className="col-lg-6 order-1 order-lg-2 hero-img"
+            className="col-lg-6 order-1 order-lg-2 5"
             data-aos="zoom-in"
             data-aos-delay={200}
           >
             <img
-              src="assets/img/hero-img.png"
+              src="assets/img/5.png"
               className="img-fluid animated"
               alt=""
             />
