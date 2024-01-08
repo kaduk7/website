@@ -9,42 +9,42 @@ const Body = () => {
                     <div className="row" data-aos="zoom-in">
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-1.png"
+                                src="assets/img/clients/ac.png"
                                 className="img-fluid"
                                 alt=""
                             />
                         </div>
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-2.png"
+                                src="assets/img/clients/ax.png"
                                 className="img-fluid"
                                 alt=""
                             />
                         </div>
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-3.png"
+                                src="assets/img/clients/del.png"
                                 className="img-fluid"
                                 alt=""
                             />
                         </div>
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-4.png"
+                                src="assets/img/clients/hp.png"
                                 className="img-fluid"
                                 alt=""
                             />
                         </div>
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-5.png"
+                                src="assets/img/clients/rog.png"
                                 className="img-fluid"
                                 alt=""
                             />
                         </div>
                         <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                             <img
-                                src="assets/img/clients/client-6.png"
+                                src="assets/img/clients/tos.png"
                                 className="img-fluid"
                                 alt=""
                             />
