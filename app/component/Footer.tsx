@@ -25,11 +25,11 @@ const Footer = () => {
         <div className="col-lg-3 col-md-6 footer-contact">
           <h3>HIZRATECH</h3>
           <p>
-            Jl. Rambutan, No. 20D, Sidomulyo Timur, Kecamatan Marpoyan Damai, Pekanbaru <br />
+            Jl. Rambutan, No. 20D, Sidomulyo Timur, Marpoyan Damai, Pekanbaru, Riau 28289 <br />
             <br />
             Indonesia <br />
             <br />
-            <strong>Phone:</strong> +1 5589 55488 55
+            <strong>Phone:</strong> 082283048013
             <br />
             <strong>Email:</strong> info@example.com
             <br />
