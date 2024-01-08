@@ -163,27 +163,13 @@ const About = () => {
                         >
                             <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
                             <p className="fst-italic">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                Kami Disini Bukan Hanya Di Bidang IT Kami Menyediakan Layanan
+                                Service Laptop Dan Kami Juga Mengadakan Podcast Dan Mengundang Orang Hebat.
                             </p>
                             <div className="skills-content">
                                 <div className="progress">
                                     <span className="skill">
-                                        HTML <i className="val">100%</i>
-                                    </span>
-                                    <div className="progress-bar-wrap">
-                                        <div
-                                            className="progress-bar"
-                                            role="progressbar"
-                                            aria-valuenow={100}
-                                            aria-valuemin={0}
-                                            aria-valuemax={100}
-                                        />
-                                    </div>
-                                </div>
-                                <div className="progress">
-                                    <span className="skill">
-                                        CSS <i className="val">90%</i>
+                                        SERVICE <i className="val">90%</i>
                                     </span>
                                     <div className="progress-bar-wrap">
                                         <div
@@ -191,13 +177,27 @@ const About = () => {
                                             role="progressbar"
                                             aria-valuenow={90}
                                             aria-valuemin={0}
-                                            aria-valuemax={100}
+                                            aria-valuemax={90}
                                         />
                                     </div>
                                 </div>
                                 <div className="progress">
                                     <span className="skill">
-                                        JavaScript <i className="val">75%</i>
+                                        APLIKASI <i className="val">95%</i>
+                                    </span>
+                                    <div className="progress-bar-wrap">
+                                        <div
+                                            className="progress-bar"
+                                            role="progressbar"
+                                            aria-valuenow={95}
+                                            aria-valuemin={0}
+                                            aria-valuemax={95}
+                                        />
+                                    </div>
+                                </div>
+                                <div className="progress">
+                                    <span className="skill">
+                                        WEBSITE <i className="val">75%</i>
                                     </span>
                                     <div className="progress-bar-wrap">
                                         <div
@@ -211,15 +211,15 @@ const About = () => {
                                 </div>
                                 <div className="progress">
                                     <span className="skill">
-                                        Photoshop <i className="val">55%</i>
+                                        Podcast <i className="val">85%</i>
                                     </span>
                                     <div className="progress-bar-wrap">
                                         <div
                                             className="progress-bar"
                                             role="progressbar"
-                                            aria-valuenow={55}
+                                            aria-valuenow={85}
                                             aria-valuemin={0}
-                                            aria-valuemax={100}
+                                            aria-valuemax={85}
                                         />
                                     </div>
                                 </div>

@@ -31,7 +31,7 @@ const Footer = () => {
             <br />
             <strong>Phone:</strong> 082283048013
             <br />
-            <strong>Email:</strong> info@example.com
+            <strong>Email:</strong> www.hizratech.co.id
             <br />
           </p>
         </div>
@@ -89,17 +89,11 @@ const Footer = () => {
             <a href="#" className="twitter">
               <i className="bx bxl-twitter" />
             </a>
-            <a href="#" className="facebook">
-              <i className="bx bxl-facebook" />
-            </a>
-            <a href="#" className="instagram">
+            <a href="https://www.instagram.com/hizratech_konsultan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="instagram">
               <i className="bx bxl-instagram" />
             </a>
-            <a href="#" className="google-plus">
-              <i className="bx bxl-skype" />
-            </a>
-            <a href="#" className="linkedin">
-              <i className="bx bxl-linkedin" />
+            <a href="https://www.youtube.com/@hizraofficial" className="youtube">
+              <i className="bx bxl-youtube" />
             </a>
           </div>
         </div>
@@ -110,7 +104,7 @@ const Footer = () => {
     <div className="copyright">
       © Copyright{" "}
       <strong>
-        <span>HizraTech</span>
+        <span>Hizratech</span>
       </strong>
       . All Rights Reserved
     </div>
@@ -119,7 +113,7 @@ const Footer = () => {
       {/* You can delete the links only if you purchased the pro version. */}
       {/* Licensing information: https://bootstrapmade.com/license/ */}
       {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ */}
-      Designed by <a href="https://bootstrapmade.com/">HizraTech</a>
+      Designed by <a href="https://bootstrapmade.com/">Hizratech</a>
     </div>
   </div>
 </footer>
