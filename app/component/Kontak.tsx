@@ -30,7 +30,7 @@ const Kontak = () => {
                                 <div className="phone">
                                     <i className="bi bi-phone" />
                                     <h4>Call:</h4>
-                                    <p>+082283048013</p>
+                                    <p>082283048013</p>
                                 </div>
                                 <iframe
                                     src="https://maps.app.goo.gl/xufi1pcQfuqJDo1N6"
