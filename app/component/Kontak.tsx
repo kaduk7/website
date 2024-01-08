@@ -25,7 +25,7 @@ const Kontak = () => {
                                 <div className="email">
                                     <i className="bi bi-envelope" />
                                     <h4>Email:</h4>
-                                    <p>info@example.com</p>
+                                    <p>www.hizratech.co.id</p>
                                 </div>
                                 <div className="phone">
                                     <i className="bi bi-phone" />
