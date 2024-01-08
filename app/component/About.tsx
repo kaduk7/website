@@ -64,8 +64,7 @@ const About = () => {
                                             className="collapse"
                                             data-bs-target="#accordion-list-1"
                                         >
-                                            <span>01</span> Non consectetur a erat nam at lectus urna
-                                            duis? <i className="bx bx-chevron-down icon-show" />
+                                            <span>01</span> Apa Sih Hizratech Itu? <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
                                         <div
@@ -74,10 +73,8 @@ const About = () => {
                                             data-bs-parent=".accordion-list"
                                         >
                                             <p>
-                                                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id
-                                                volutpat lacus laoreet non curabitur gravida. Venenatis
-                                                lectus magna fringilla urna porttitor rhoncus dolor purus
-                                                non.
+                                                Hizratech Adalah Konsultan IT Yang Bergerak Dalam Bidang Aplikasi 
+                                                Dan Servis Dengan Pengalaman Lebih Dari 10 Tahun.
                                             </p>
                                         </div>
                                     </li>
