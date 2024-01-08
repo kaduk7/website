@@ -12,7 +12,7 @@ const Home = () => {
           >
             <h1>Hizratech </h1>
             <h2>
-              kami adalah konsultan IT yang bergerak di bidang website dan program aplikasi
+              Kami Adalah Konsultan IT Yang Bergerak Di Bidang Website Dan Program Aplikasi
             </h2>
             <div className="d-flex justify-content-center justify-content-lg-start">
               <a href="#about" className="btn-get-started scrollto">
