@@ -45,7 +45,7 @@ const Kontak = () => {
                             >
                                 <div className="row">
                                     <div className="form-group col-md-6">
-                                        <label htmlFor="name">Your Name</label>
+                                        <label htmlFor="name">Nama Anda</label>
                                         <input
                                             type="text"
                                             name="name"
@@ -54,7 +54,7 @@ const Kontak = () => {
                                         />
                                     </div>
                                     <div className="form-group col-md-6">
-                                        <label htmlFor="name">Your Email</label>
+                                        <label htmlFor="name">Email Anda</label>
                                         <input
                                             type="email"
                                             className="form-control"
@@ -64,7 +64,7 @@ const Kontak = () => {
                                     </div>
                                 </div>
                                 <div className="form-group">
-                                    <label htmlFor="name">Subject</label>
+                                    <label htmlFor="name">Subjek</label>
                                     <input
                                         type="text"
                                         className="form-control"
@@ -73,7 +73,7 @@ const Kontak = () => {
                                     />
                                 </div>
                                 <div className="form-group">
-                                    <label htmlFor="name">Message</label>
+                                    <label htmlFor="name">Pesan</label>
                                     <textarea
                                         className="form-control"
                                         name="message"
@@ -85,11 +85,11 @@ const Kontak = () => {
                                     <div className="loading">Loading</div>
                                     <div className="error-message" />
                                     <div className="sent-message">
-                                        Your message has been sent. Thank you!
+                                        Pesan Anda Sudah Terkirim. TerimaKasih!
                                     </div>
                                 </div>
                                 <div className="text-center">
-                                    <button type="submit">Send Message</button>
+                                    <button type="submit">Kirim Pesan</button>
                                 </div>
                             </form>
                         </div>
