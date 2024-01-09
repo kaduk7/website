@@ -40,14 +40,14 @@ const Servis = () => {
                         >
                             <div className="icon-box">
                                 <div className="icon">
-                                    <i className="bx bx-file" />
+                                    <i className="bx bx-desktop" />
                                 </div>
                                 <h4>
-                                    <a href="">Sed ut perspici</a>
+                                    <a href="">Servis</a>
                                 </h4>
                                 <p>
-                                    Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    cillum dolore
+                                    Kami Disini Juga Melayani Servis Komputer
+                                    Dan Laptop 
                                 </p>
                             </div>
                         </div>
@@ -58,14 +58,14 @@ const Servis = () => {
                         >
                             <div className="icon-box">
                                 <div className="icon">
-                                    <i className="bx bx-tachometer" />
+                                    <i className="bx bx-cart" />
                                 </div>
                                 <h4>
-                                    <a href="">Magni Dolores</a>
+                                    <a href="">Komponen Komputer</a>
                                 </h4>
                                 <p>
-                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                                    officia
+                                    Kami Disini Menjual Berbagai Kebutuhan Komputer Seperti Casing
+                                    , Laptop dan Keayboard
                                 </p>
                             </div>
                         </div>
@@ -76,7 +76,7 @@ const Servis = () => {
                         >
                             <div className="icon-box">
                                 <div className="icon">
-                                    <i className="bx bx-layer" />
+                                    <i className="bx bx-broadcast" />
                                 </div>
                                 <h4>
                                     <a href="">Nemo Enim</a>
