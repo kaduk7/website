@@ -22,7 +22,7 @@ const Kontak = () => {
                                 <div className="email">
                                     <i className="bi bi-envelope" />
                                     <h4>Email:</h4>
-                                    <p>www.hizratech.co.id</p>
+                                    <p>www.hizratech.com</p>
                                 </div>
                                 <div className="phone">
                                     <i className="bi bi-phone" />
