@@ -12,7 +12,8 @@ const Home = () => {
           >
             <h1>Hizratech </h1>
             <h2>
-              Kami Adalah Konsultan IT Yang Bergerak Di Bidang Website Dan Program Aplikasi
+              Hizratech Adalah Konsultan Servis Yang Bergerak Di Bidang IT Dengan 
+              Pengalaman Lebih Dari 10 Tahun
             </h2>
             <div className="d-flex justify-content-center justify-content-lg-start">
               <a href="#about" className="btn-get-started scrollto">
