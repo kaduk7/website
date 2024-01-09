@@ -18,13 +18,13 @@ const Home = () => {
               <a href="#about" className="btn-get-started scrollto">
                 Ayo Mulai
               </a>
-              <a
+              {/* <a
                 href="https://youtu.be/o6Biuy8Lr1c"
                 className="glightbox btn-watch-video"
               >
                 <i className="bi bi-play-circle" />
                 <span>Watch Video</span>
-              </a>
+              </a> */}
             </div>
           </div>
           <div
