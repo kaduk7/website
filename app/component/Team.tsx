@@ -262,13 +262,7 @@ const Team = () => {
             <section id="faq" className="faq section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>FAQ</h2>
-                        <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
-                        </p>
+                        <h2>Frequently Asked Questions</h2>
                     </div>
                     <div className="faq-list">
                         <ul>
