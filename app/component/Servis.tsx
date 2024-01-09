@@ -6,12 +6,9 @@ const Servis = () => {
             <section id="services" className="services section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Services</h2>
+                        <h2>PELAYANAN</h2>
                         <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
+                            Kami Melayani Berbagai Permasalahan dalam Dunia IT
                         </p>
                     </div>
                     <div className="row">
@@ -28,8 +25,8 @@ const Servis = () => {
                                     <a href="">Kinerja</a>
                                 </h4>
                                 <p>
-                                    Jelas Kami Mempunyai Kinerja Yang Sangat Profesional Dan 
-                                    Sangat Ahli Di bidang Nya Masing-Masing
+                                    Jelas Kami Mempunyai Kinerja Yang Sangat Profesional dan 
+                                    Sangat Ahli di Bidangnya Masing-Masing
                                 </p>
                             </div>
                         </div>
@@ -64,8 +61,8 @@ const Servis = () => {
                                     <a href="">Komponen Komputer</a>
                                 </h4>
                                 <p>
-                                    Kami Disini Menjual Berbagai Kebutuhan Komputer Seperti Casing
-                                    , Laptop dan Keayboard
+                                    Disini Kami Menjual Berbagai Kebutuhan Komponen
+                                    Komputer Seperti Casing PC, Laptop, Keyboard dan lainnya.
                                 </p>
                             </div>
                         </div>
@@ -79,12 +76,12 @@ const Servis = () => {
                                     <i className="bx bx-devices" />
                                 </div>
                                 <h4>
-                                    <a href="">Jasa Bikin Program</a>
+                                    <a href="">Jasa Pembuatan Program</a>
                                 </h4>
                                 <p>
                                     Kami Disini Bukan Hanya Bisa Servis Laptop Dan Menjual Komponen
                                     Komputer, Kami Disini Juga Bisa Buat Program Aplikasi Untuk Mahasiswa
-                                    IT
+                                    Terkhususnya Mahasiswa IT
                                 </p>
                             </div>
                         </div>
