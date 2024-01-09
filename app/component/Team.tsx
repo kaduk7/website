@@ -38,10 +38,10 @@ const Team = () => {
                                         <a href="">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        <a href="">
+                                        {/* <a href="">
                                             {" "}
                                             <i className="ri-linkedin-box-fill" />{" "}
-                                        </a>
+                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -75,10 +75,10 @@ const Team = () => {
                                         <a href="">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        <a href="">
+                                        {/* <a href="">
                                             {" "}
                                             <i className="ri-linkedin-box-fill" />{" "}
-                                        </a>
+                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -106,10 +106,10 @@ const Team = () => {
                                         <a href="">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        <a href="">
+                                        {/* <a href="">
                                             {" "}
                                             <i className="ri-linkedin-box-fill" />{" "}
-                                        </a>
+                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +139,10 @@ const Team = () => {
                                         <a href="">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        <a href="">
+                                        {/* <a href="">
                                             {" "}
                                             <i className="ri-linkedin-box-fill" />{" "}
-                                        </a>
+                                        </a> */}
                                     </div>
                                 </div>
                             </div>
