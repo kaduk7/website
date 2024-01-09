@@ -92,16 +92,18 @@ const Servis = () => {
                 <div className="container" data-aos="zoom-in">
                     <div className="row">
                         <div className="col-lg-9 text-center text-lg-start">
-                            <h3>Mulailah Dari Dirimu Sendiri.</h3>
+                            <h3>Belajar dari Keberhasilan dan Kegagalan.</h3>
                             <p>
                                 {" "}
-                                "Temukan inspirasi, buat perbedaan. Gabunglah dengan kami dalam aksi positif!"
+                                "Lihat Setiap Pengalaman, Baik Sukses Maupun Kegagalan, Sebagai Peluang Untuk Belajar Dan Berkembang. 
+                                Jangan Biarkan Kegagalan Meruntuhkan 
+                                Semangat Anda; Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
                             </p>
                         </div>
                         <div className="col-lg-3 cta-btn-container text-center">
-                            <a className="cta-btn align-middle" href="#">
+                            {/* <a className="cta-btn align-middle" href="#">
                                 Call To Action
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
