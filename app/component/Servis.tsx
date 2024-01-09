@@ -92,7 +92,7 @@ const Servis = () => {
                 <div className="container" data-aos="zoom-in">
                     <div className="row">
                         <div className="col-lg-9 text-center text-lg-start">
-                            <h3>Call To Action</h3>
+                            <h3>Mulailah Dari Dirimu Sendiri.</h3>
                             <p>
                                 {" "}
                                 "Temukan inspirasi, buat perbedaan. Gabunglah dengan kami dalam aksi positif!"
