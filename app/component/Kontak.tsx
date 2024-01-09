@@ -8,7 +8,7 @@ const Kontak = () => {
                     <div className="section-title">
                         <h2>Alamat</h2>
                         <p>
-                            Hizratech Berada Di Kabupaten Kampar Kota Pekanbaru Yang Berada Di Wilayah Pulau Sumatra.
+                            Hizratech Berada di Kota Pekanbaru, Riau yang Berada di Wilayah Pulau Sumatera.
                         </p>
                     </div>
                     <div className="row">
