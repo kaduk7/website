@@ -11,7 +11,7 @@ const About = () => {
                     <div className="row content">
                         <div className="col-lg-6">
                             <p>
-                                Mewujudkan sistem digital anda bersama kami PT Hizratch konsultan
+                                Mewujudkan sistem digital anda bersama kami PT Hizratech Konsultan
                                 Service menyediakan beragam ke fabilitas pengembangan perangkat lunak.
                             </p>
                             <ul>
