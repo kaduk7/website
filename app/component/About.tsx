@@ -149,10 +149,10 @@ const About = () => {
                             data-aos="fade-left"
                             data-aos-delay={100}
                         >
-                            <h3>Apa Aja Yang Kami Kerjakan Di Hizratech Itu?</h3>
+                            <h3>Apa Saja yang Kami Kerjakan di Hizratech?</h3>
                             <p className="fst-italic">
-                                Kami Disini Bukan Hanya Di Bidang IT Kami Menyediakan Layanan
-                                Service Laptop Dan Kami Juga Mengadakan Podcast Dan Mengundang Orang Hebat.
+                                Kami Disini Bukan Hanya Bergerak di Bidang IT, Kami juga Menyediakan Layanan
+                                Service Laptop Dan Kami Juga Mengadakan Podcast Dimana Podcast Tersebut Mengundang Orang Hebat.
                             </p>
                             <div className="skills-content">
                                 <div className="progress">
@@ -185,13 +185,13 @@ const About = () => {
                                 </div>
                                 <div className="progress">
                                     <span className="skill">
-                                        WEBSITE <i className="val">75%</i>
+                                        WEBSITE <i className="val">80%</i>
                                     </span>
                                     <div className="progress-bar-wrap">
                                         <div
                                             className="progress-bar"
                                             role="progressbar"
-                                            aria-valuenow={75}
+                                            aria-valuenow={80}
                                             aria-valuemin={0}
                                             aria-valuemax={100}
                                         />
@@ -199,15 +199,15 @@ const About = () => {
                                 </div>
                                 <div className="progress">
                                     <span className="skill">
-                                        Podcast <i className="val">85%</i>
+                                        Podcast <i className="val">70%</i>
                                     </span>
                                     <div className="progress-bar-wrap">
                                         <div
                                             className="progress-bar"
                                             role="progressbar"
-                                            aria-valuenow={85}
+                                            aria-valuenow={70}
                                             aria-valuemin={0}
-                                            aria-valuemax={85}
+                                            aria-valuemax={70}
                                         />
                                     </div>
                                 </div>
