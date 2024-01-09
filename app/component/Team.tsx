@@ -262,7 +262,7 @@ const Team = () => {
             <section id="faq" className="faq section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Frequently Asked Questions</h2>
+                        <h2>FAQ</h2>
                         <p>
                             Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
                             aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
@@ -279,7 +279,7 @@ const Team = () => {
                                     className="collapse"
                                     data-bs-target="#faq-list-1"
                                 >
-                                    Non consectetur a erat nam at lectus urna duis?{" "}
+                                    Bagaimana cara pengguna menghubungi bagian penjualan?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -289,9 +289,8 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id
-                                        volutpat lacus laoreet non curabitur gravida. Venenatis lectus
-                                        magna fringilla urna porttitor rhoncus dolor purus non.
+                                        Pengguna Bisa Menghubungi Admin Kami Dengan Me Whatshap Dengan
+                                        Nomor Yang Sudah Ada Di Bagian Bawah Pada Website Ini.
                                     </p>
                                 </div>
                             </li>
@@ -302,7 +301,7 @@ const Team = () => {
                                     data-bs-target="#faq-list-2"
                                     className="collapsed"
                                 >
-                                    Feugiat scelerisque varius morbi enim nunc?{" "}
+                                    Bagaimana cara pengguna menyampaikan masalah terkait pesanan mereka?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -312,11 +311,9 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Dolor sit amet consectetur adipiscing elit pellentesque habitant
-                                        morbi. Id interdum velit laoreet id donec ultrices. Fringilla
-                                        phasellus faucibus scelerisque eleifend donec pretium. Est
-                                        pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
-                                        cursus turpis massa tincidunt dui.
+                                        Pengguna Bisa Langsung Berkonsultasi Kepada Admin Dan Admin Akan 
+                                        Memberikan Solusi Dari Masalah Apa Yang Anda Punya Jadi Berkonsultasilah
+                                        Dengan Admin Kami.
                                     </p>
                                 </div>
                             </li>
@@ -327,7 +324,7 @@ const Team = () => {
                                     data-bs-target="#faq-list-3"
                                     className="collapsed"
                                 >
-                                    Dolor sit amet consectetur adipiscing elit?{" "}
+                                    Di mana pengguna dapat membeli produk Anda?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -337,12 +334,10 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Eleifend mi in nulla posuere sollicitudin aliquam ultrices
-                                        sagittis orci. Faucibus pulvinar elementum integer enim. Sem
-                                        nulla pharetra diam sit amet nisl suscipit. Rutrum tellus
-                                        pellentesque eu tincidunt. Lectus urna duis convallis convallis
-                                        tellus. Urna molestie at elementum eu facilisis sed odio morbi
-                                        quis
+                                        Pengguna Bisa Membeli Produk Dari Kami Dengan Cara Pesan
+                                        Melalui Whatshap Atau Bisa Langsung Datang Saja Ke Toko Kami 
+                                        Yaitu Di  Jl.Rambutan No 20D Sidomulyo Timur, Marpoyan Damai
+                                        Pekanbaru,Riau
                                     </p>
                                 </div>
                             </li>
@@ -353,7 +348,7 @@ const Team = () => {
                                     data-bs-target="#faq-list-4"
                                     className="collapsed"
                                 >
-                                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?{" "}
+                                    Apa produk atau layanan yang ditawarkan oleh perusahaan?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -363,10 +358,11 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Molestie a iaculis at erat pellentesque adipiscing commodo.
-                                        Dignissim suspendisse in est ante in. Nunc vel risus commodo
-                                        viverra maecenas accumsan. Sit amet nisl suscipit adipiscing
-                                        bibendum est. Purus gravida quis blandit turpis cursus in.
+                                        Kami Menyediakan Berbagai Macam Komponen Komputer
+                                        Dan Kami juga Mempunyai Aplikasi Untuk Sekolah Yang Akan 
+                                        Melakukan Ujian Dan Kami Juga Menerima Jasa Servis Laptop 
+                                        Dan Komputer,Dan Kami Juga Menerima Jasa Bikin Program
+                                        Untuk Mahasiswa IT
                                     </p>
                                 </div>
                             </li>
@@ -377,8 +373,8 @@ const Team = () => {
                                     data-bs-target="#faq-list-5"
                                     className="collapsed"
                                 >
-                                    Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis
-                                    nunc eget lorem dolor?{" "}
+                                    Bagaimana saya dapat memberikan
+                                    umpan balik atau saran kepada perusahaan?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -388,10 +384,10 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris
-                                        vitae ultricies leo integer malesuada nunc vel. Tincidunt eget
-                                        nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed.
-                                        Ut venenatis tellus in metus vulputate eu scelerisque.
+                                        Nah Supaya Konsumen Mendapatkan Umpan Balik Dari Kami
+                                        Kami Mengerjakan Apa Yang Akan Konsumen Mintak Dengan Sangat
+                                        Profesional Dan Sangat Teliti Jadi Konsumen Merasa Mendapatkan 
+                                        Umpan Balik Dari Kami Dengan Kinerja Yang Kami Berikan
                                     </p>
                                 </div>
                             </li>
