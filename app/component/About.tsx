@@ -6,7 +6,7 @@ const About = () => {
             <section id="about" className="about">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>About Us</h2>
+                        <h2>Tentang Kami</h2>
                     </div>
                     <div className="row content">
                         <div className="col-lg-6">
@@ -35,7 +35,7 @@ const About = () => {
                                 dan menjadi salah satu partner dalam menelpon kebutuhan sistem digital yang diperlukan seperti sistem manajemen kasir sistem keuangan aplikasi Adsense digital.
                             </p>
                             <a href="#" className="btn-learn-more">
-                                Learn More
+                                Pelajari Lebih Lanjut
                             </a>
                         </div>
                     </div>
