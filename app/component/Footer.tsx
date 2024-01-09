@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-6">
-          <h4>Join Our Newsletter</h4>
+          <h4>Bergabunglah Dengan Newsletter Kami</h4>
           <p>
           HIZRATECH menyediakan beragam kapabilitas Pengembangan Perangkat Lunak terhitung Microsoft, Mobile, Web, Java, dll.
           </p>
@@ -31,7 +31,7 @@ const Footer = () => {
             <br />
             <strong>Phone:</strong> 082283048013
             <br />
-            <strong>Email:</strong> www.hizratech.co.id
+            <strong>Email:</strong> www.hizratech.com
             <br />
           </p>
         </div>
@@ -39,13 +39,13 @@ const Footer = () => {
           <h4>Link Tautan</h4>
           <ul>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Utama</a>
+              <i className="bx bx-chevron-right" /> <a href="#hero">Utama</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Tentang Kami</a>
+              <i className="bx bx-chevron-right" /> <a href="#about">Tentang Kami</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Services</a>
+              <i className="bx bx-chevron-right" /> <a href="#services">Services</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
