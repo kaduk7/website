@@ -23,7 +23,7 @@ export default function Header() {
             </li>
             <li>
               <a className="nav-link scrollto" href="#services">
-                Services
+                Pelayanan
               </a>
             </li>
             <li>
