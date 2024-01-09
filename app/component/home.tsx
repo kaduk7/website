@@ -16,7 +16,7 @@ const Home = () => {
             </h2>
             <div className="d-flex justify-content-center justify-content-lg-start">
               <a href="#about" className="btn-get-started scrollto">
-                Get Started
+                Ayo Mulai
               </a>
               <a
                 href="https://www.youtube.com/watch?v=jDDaplaOz7Q"

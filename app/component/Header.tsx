@@ -85,7 +85,7 @@ export default function Header() {
             </li>
             <li>
               <a className="getstarted scrollto" href="#hero">
-                Get Started
+                Ayo Mulai
               </a>
             </li>
           </ul>
