@@ -150,7 +150,7 @@ const Team = () => {
                     </div>
                 </div>
             </section>
-            <section id="pricing" className="pricing">
+            {/* <section id="pricing" className="pricing">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Pricing</h2>
@@ -258,7 +258,7 @@ const Team = () => {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
             <section id="faq" className="faq section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
