@@ -19,7 +19,7 @@ const Home = () => {
                 Ayo Mulai
               </a>
               <a
-                href="https://www.youtube.com/watch?v=jDDaplaOz7Q"
+                href="https://youtu.be/o6Biuy8Lr1c"
                 className="glightbox btn-watch-video"
               >
                 <i className="bi bi-play-circle" />

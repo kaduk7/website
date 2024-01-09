@@ -36,13 +36,13 @@ const Footer = () => {
           </p>
         </div>
         <div className="col-lg-3 col-md-6 footer-links">
-          <h4>Useful Links</h4>
+          <h4>Link Tautan</h4>
           <ul>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Home</a>
+              <i className="bx bx-chevron-right" /> <a href="#">Utama</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">About us</a>
+              <i className="bx bx-chevron-right" /> <a href="#">Tentang Kami</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" /> <a href="#">Services</a>
@@ -58,30 +58,30 @@ const Footer = () => {
           </ul>
         </div>
         <div className="col-lg-3 col-md-6 footer-links">
-          <h4>Our Services</h4>
+          <h4>Layanan Kami</h4>
           <ul>
             <li>
               <i className="bx bx-chevron-right" /> <a href="#">Web Design</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
-              <a href="#">Web Development</a>
+              <a href="#">Jasa Bikin Program Mahasiswa IT</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
-              <a href="#">Product Management</a>
+              <a href="#">Aplikasi Ujian Sekolah</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Marketing</a>
+              <i className="bx bx-chevron-right" /> <a href="#">Servis Laptop Dan Komputer</a>
             </li>
-            <li>
+            {/* <li>
               <i className="bx bx-chevron-right" />{" "}
               <a href="#">Graphic Design</a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div className="col-lg-3 col-md-6 footer-links">
-          <h4>Our Social Networks</h4>
+          <h4>Sosial Media Kami</h4>
           <p>
             Silahkan Kunjungi Sosial Media Kami
           </p>
