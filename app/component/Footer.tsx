@@ -39,13 +39,13 @@ const Footer = () => {
           <h4>Link Tautan</h4>
           <ul>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Utama</a>
+              <i className="bx bx-chevron-right" /> <a href="#hero">Utama</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Tentang Kami</a>
+              <i className="bx bx-chevron-right" /> <a href="#about">Tentang Kami</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#">Services</a>
+              <i className="bx bx-chevron-right" /> <a href="#services">Services</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
