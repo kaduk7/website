@@ -97,7 +97,7 @@ const Servis = () => {
                                 {" "}
                                 "Lihat Setiap Pengalaman, Baik Sukses Maupun Kegagalan, Sebagai Peluang Untuk Belajar Dan Berkembang. 
                                 Jangan Biarkan Kegagalan Meruntuhkan 
-                                Semangat Anda; Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
+                                Semangat Anda Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
                             </p>
                         </div>
                         <div className="col-lg-3 cta-btn-container text-center">
