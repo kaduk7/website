@@ -13,7 +13,7 @@ export default function Header() {
           <ul>
             <li>
               <a className="nav-link scrollto active" href="#hero">
-                Home
+              Utama
               </a>
             </li>
             <li>
