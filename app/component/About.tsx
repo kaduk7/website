@@ -48,7 +48,7 @@ const About = () => {
                             <div className="content">
                                 <h3>
                                     Mungkin Ada Yang Belum Kenal{" "}
-                                    <strong>Apa Sih Hizratech itu?</strong>
+                                    <strong>Apa itu Hizratech itu?</strong>
                                 </h3>
                             </div>
                             <div className="accordion-list">
@@ -59,7 +59,7 @@ const About = () => {
                                             className="collapse"
                                             data-bs-target="#accordion-list-1"
                                         >
-                                            <span>01</span> Apa Sih Hizratech Itu? <i className="bx bx-chevron-down icon-show" />
+                                            <span>01</span> Apa Hizratech Itu? <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
                                         <div
@@ -149,7 +149,7 @@ const About = () => {
                             data-aos="fade-left"
                             data-aos-delay={100}
                         >
-                            <h3>Apa Aja Sih Yang Kami Kerjakan Di Hizratech Itu?</h3>
+                            <h3>Apa Aja Yang Kami Kerjakan Di Hizratech Itu?</h3>
                             <p className="fst-italic">
                                 Kami Disini Bukan Hanya Di Bidang IT Kami Menyediakan Layanan
                                 Service Laptop Dan Kami Juga Mengadakan Podcast Dan Mengundang Orang Hebat.
