@@ -45,7 +45,7 @@ const Footer = () => {
               <i className="bx bx-chevron-right" /> <a href="#about">Tentang Kami</a>
             </li>
             <li>
-              <i className="bx bx-chevron-right" /> <a href="#services">Services</a>
+              <i className="bx bx-chevron-right" /> <a href="#services">Pelayanan</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
