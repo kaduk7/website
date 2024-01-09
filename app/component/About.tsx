@@ -47,14 +47,9 @@ const About = () => {
                         <div className="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
                             <div className="content">
                                 <h3>
-                                    Eum ipsam laborum deleniti{" "}
-                                    <strong>velit pariatur architecto aut nihil</strong>
+                                    Mungkin Ada Yang Belum Kenal{" "}
+                                    <strong>Apa Sih Hizratech itu?</strong>
                                 </h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis
-                                    aute irure dolor in reprehenderit
-                                </p>
                             </div>
                             <div className="accordion-list">
                                 <ul>
@@ -73,7 +68,7 @@ const About = () => {
                                             data-bs-parent=".accordion-list"
                                         >
                                             <p>
-                                                Hizratech Adalah Konsultan IT Yang Bergerak Dalam Bidang Aplikasi 
+                                                Hizratech Adalah Konsultan Servis Yang Bergerak Dalam Bidang Aplikasi 
                                                 Dan Servis Dengan Pengalaman Lebih Dari 10 Tahun.
                                             </p>
                                         </div>
@@ -154,7 +149,7 @@ const About = () => {
                             data-aos="fade-left"
                             data-aos-delay={100}
                         >
-                            <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
+                            <h3>Apa Aja Sih Yang Kami Kerjakan Di Hizratech Itu?</h3>
                             <p className="fst-italic">
                                 Kami Disini Bukan Hanya Di Bidang IT Kami Menyediakan Layanan
                                 Service Laptop Dan Kami Juga Mengadakan Podcast Dan Mengundang Orang Hebat.
