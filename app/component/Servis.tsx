@@ -22,14 +22,14 @@ const Servis = () => {
                         >
                             <div className="icon-box">
                                 <div className="icon">
-                                    <i className="bx bxl-dribbble" />
+                                    <i className="bx bx-check-circle" />
                                 </div>
                                 <h4>
-                                    <a href="">Lorem Ipsum</a>
+                                    <a href="">Kinerja</a>
                                 </h4>
                                 <p>
-                                    Voluptatum deleniti atque corrupti quos dolores et quas molestias
-                                    excepturi
+                                    Jelas Kami Mempunyai Kinerja Yang Sangat Profesional Dan 
+                                    Sangat Ahli Di bidang Nya Masing-Masing
                                 </p>
                             </div>
                         </div>
@@ -47,7 +47,7 @@ const Servis = () => {
                                 </h4>
                                 <p>
                                     Kami Disini Juga Melayani Servis Komputer
-                                    Dan Laptop 
+                                    Dan Laptop Dengan Kinerja Yang Sangat Baik  
                                 </p>
                             </div>
                         </div>
@@ -76,14 +76,15 @@ const Servis = () => {
                         >
                             <div className="icon-box">
                                 <div className="icon">
-                                    <i className="bx bx-broadcast" />
+                                    <i className="bx bx-devices" />
                                 </div>
                                 <h4>
-                                    <a href="">Nemo Enim</a>
+                                    <a href="">Jasa Bikin Program</a>
                                 </h4>
                                 <p>
-                                    At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                                    blanditiis
+                                    Kami Disini Bukan Hanya Bisa Servis Laptop Dan Menjual Komponen
+                                    Komputer, Kami Disini Juga Bisa Buat Program Aplikasi Untuk Mahasiswa
+                                    IT
                                 </p>
                             </div>
                         </div>
