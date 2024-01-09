@@ -80,7 +80,7 @@ const Servis = () => {
                                 </h4>
                                 <p>
                                     Kami Disini Bukan Hanya Bisa Servis Laptop Dan Menjual Komponen
-                                    Komputer, Kami Disini Juga Bisa Buat Program Aplikasi Untuk Mahasiswa
+                                    Komputer, Kami Disini Juga Bisa Membuat Program Aplikasi Untuk Mahasiswa
                                     Terkhususnya Mahasiswa IT
                                 </p>
                             </div>
