@@ -86,9 +86,9 @@ const Footer = () => {
             Silahkan Kunjungi Sosial Media Kami
           </p>
           <div className="social-links mt-3">
-            <a href="#" className="twitter">
+            {/* <a href="#" className="twitter">
               <i className="bx bxl-twitter" />
-            </a>
+            </a> */}
             <a href="https://www.instagram.com/hizratech_konsultan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="instagram">
               <i className="bx bxl-instagram" />
             </a>
