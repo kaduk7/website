@@ -6,7 +6,7 @@ const Kontak = () => {
         <section id="contact" className="contact">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Alamat</h2>
+                        <h2>Alamat & Saran</h2>
                         <p>
                             Hizratech Berada di Kota Pekanbaru, Riau yang Berada di Wilayah Pulau Sumatera.
                         </p>
