@@ -6,7 +6,7 @@ const Kontak = () => {
         <section id="contact" className="contact">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Alamat</h2>
+                        <h2>Alamat & Saran</h2>
                         <p>
                             Hizratech Berada di Kota Pekanbaru, Riau yang Berada di Wilayah Pulau Sumatera.
                         </p>
@@ -16,7 +16,7 @@ const Kontak = () => {
                             <div className="info">
                                 <div className="address">
                                     <i className="bi bi-geo-alt" />
-                                    <h4>Location:</h4>
+                                    <h4>Lokasi:</h4>
                                     <p>Jl. Rambutan, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289</p>
                                 </div>
                                 <div className="email">
@@ -26,7 +26,7 @@ const Kontak = () => {
                                 </div>
                                 <div className="phone">
                                     <i className="bi bi-phone" />
-                                    <h4>Call:</h4>
+                                    <h4>Telepon:</h4>
                                     <p>082283048013</p>
                                 </div>
                                 <iframe

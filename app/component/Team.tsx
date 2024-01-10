@@ -6,7 +6,7 @@ const Team = () => {
          <section id="team" className="team section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Team</h2>
+                        <h2>Tim</h2>
                         <p>
                             Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
                             aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
@@ -262,7 +262,7 @@ const Team = () => {
             <section id="faq" className="faq section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Frequently Asked Questions</h2>
+                        <h2>FAQ</h2>
                     </div>
                     <div className="faq-list">
                         <ul>
@@ -283,8 +283,8 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Pengguna Bisa Menghubungi Admin Kami Dengan Me Whatshap Dengan
-                                        Nomor Yang Sudah Ada Di Bagian Bawah Pada Website Ini.
+                                        Anda dapat menghubungi admin kami melalui WhatsApp dengan
+                                        nomor yang ada pada bagian bawah website ini.
                                     </p>
                                 </div>
                             </li>
@@ -295,7 +295,7 @@ const Team = () => {
                                     data-bs-target="#faq-list-2"
                                     className="collapsed"
                                 >
-                                    Bagaimana cara pengguna menyampaikan masalah terkait pesanan mereka?{" "}
+                                    Bagaimana cara saya menyampaikan masalah terkait pesanan mereka?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -305,9 +305,8 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Pengguna Bisa Langsung Berkonsultasi Kepada Admin Dan Admin Akan 
-                                        Memberikan Solusi Dari Masalah Apa Yang Anda Punya Jadi Berkonsultasilah
-                                        Dengan Admin Kami.
+                                        Anda bisa langsung berkonsultasi kepada admin dan seterusnya admin akan 
+                                        memberikan solusi dari permasalah yang anda miliki.
                                     </p>
                                 </div>
                             </li>
@@ -318,7 +317,7 @@ const Team = () => {
                                     data-bs-target="#faq-list-3"
                                     className="collapsed"
                                 >
-                                    Di mana pengguna dapat membeli produk Anda?{" "}
+                                    Di mana saya dapat membeli produk Anda?{" "}
                                     <i className="bx bx-chevron-down icon-show" />
                                     <i className="bx bx-chevron-up icon-close" />
                                 </a>
@@ -328,10 +327,10 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Pengguna Bisa Membeli Produk Dari Kami Dengan Cara Pesan
-                                        Melalui Whatshap Atau Bisa Langsung Datang Saja Ke Toko Kami 
-                                        Yaitu Di  Jl.Rambutan No 20D Sidomulyo Timur, Marpoyan Damai
-                                        Pekanbaru,Riau
+                                        Anda bisa membeli produk dari kami dengan cara memesan
+                                        melalui whatshap atau anda bisa langsung datang ke toko kami 
+                                        yang berada di  Jl.Rambutan No 20D Sidomulyo Timur, Marpoyan Damai
+                                        Pekanbaru, Riau
                                     </p>
                                 </div>
                             </li>
@@ -352,11 +351,11 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Kami Menyediakan Berbagai Macam Komponen Komputer
-                                        Dan Kami juga Mempunyai Aplikasi Untuk Sekolah Yang Akan 
-                                        Melakukan Ujian Dan Kami Juga Menerima Jasa Servis Laptop 
-                                        Dan Komputer,Dan Kami Juga Menerima Jasa Bikin Program
-                                        Untuk Mahasiswa IT
+                                        Kami menyediakan berbagai macam komponen komputer
+                                        dan kami juga mempunyai aplikasi untuk sekolah yang akan 
+                                        mempermudah sekolah dalam berbagai hal dan kami juga menerima jasa servis laptop 
+                                        dan komputer serta kami juga menerima jasa pembuatan program
+                                        untuk mahasiswa IT
                                     </p>
                                 </div>
                             </li>
@@ -378,10 +377,10 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Nah Supaya Konsumen Mendapatkan Umpan Balik Dari Kami
-                                        Kami Mengerjakan Apa Yang Akan Konsumen Mintak Dengan Sangat
-                                        Profesional Dan Sangat Teliti Jadi Konsumen Merasa Mendapatkan 
-                                        Umpan Balik Dari Kami Dengan Kinerja Yang Kami Berikan
+                                        Jika anda ingin memberikan umpan balik atau saran,
+                                        anda dapat menuliskannya pada kolom dibawah ini.
+                                        Anda dapat menuliskan secara detail saran yang anda berikan
+                                        yang nantinya akan kami pertimbangkan dengan baik.
                                     </p>
                                 </div>
                             </li>
