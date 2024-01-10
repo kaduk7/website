@@ -26,22 +26,12 @@ const Team = () => {
                                 </div>
                                 <div className="member-info">
                                     <h4>Wahyu Ningsih</h4>
-                                    <span>Chief Executive Officer</span>
+                                    <span>Administrasi dan Keuangan</span>
                                     <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                                     <div className="social">
-                                        <a href="">
-                                            <i className="ri-twitter-fill" />
-                                        </a>
-                                        <a href="">
-                                            <i className="ri-facebook-fill" />
-                                        </a>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/wningsih650/">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        {/* <a href="">
-                                            {" "}
-                                            <i className="ri-linkedin-box-fill" />{" "}
-                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -60,25 +50,15 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Sarah Jhonson</h4>
-                                    <span>Product Manager</span>
+                                    <h4>Dina Shilvia </h4>
+                                    <span>Sekretaris</span>
                                     <p>
                                         Aut maiores voluptates amet et quis praesentium qui senda para
                                     </p>
                                     <div className="social">
-                                        <a href="">
-                                            <i className="ri-twitter-fill" />
-                                        </a>
-                                        <a href="">
-                                            <i className="ri-facebook-fill" />
-                                        </a>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/nsvhr/">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        {/* <a href="">
-                                            {" "}
-                                            <i className="ri-linkedin-box-fill" />{" "}
-                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -93,23 +73,13 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>William Anderson</h4>
-                                    <span>CTO</span>
+                                    <h4>Herman</h4>
+                                    <span>Head Marketing</span>
                                     <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
                                     <div className="social">
-                                        <a href="">
-                                            <i className="ri-twitter-fill" />
-                                        </a>
-                                        <a href="">
-                                            <i className="ri-facebook-fill" />
-                                        </a>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/herman_amg/">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        {/* <a href="">
-                                            {" "}
-                                            <i className="ri-linkedin-box-fill" />{" "}
-                                        </a> */}
                                     </div>
                                 </div>
                             </div>
@@ -124,25 +94,38 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Amanda Jepson</h4>
-                                    <span>Accountant</span>
+                                    <h4>Arini Anggraeni</h4>
+                                    <span>Staff Admin dan Marketing</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="">
-                                            <i className="ri-twitter-fill" />
-                                        </a>
-                                        <a href="">
-                                            <i className="ri-facebook-fill" />
-                                        </a>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/_riniianggraeni">
                                             <i className="ri-instagram-fill" />
                                         </a>
-                                        {/* <a href="">
-                                            {" "}
-                                            <i className="ri-linkedin-box-fill" />{" "}
-                                        </a> */}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                            <div className="member d-flex align-items-start">
+                                <div className="pic">
+                                    <img
+                                        src="assets/img/team/team-4.jpg"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="member-info">
+                                    <h4>Shilvia Syafitri</h4>
+                                    <span>Staff Admin dan Marketing</span>
+                                    <p>
+                                        Dolorum tempora officiis odit laborum officiis et et accusamus
+                                    </p>
+                                    <div className="social">
+                                        <a href="https://www.instagram.com/_riniianggraeni">
+                                            <i className="ri-instagram-fill" />
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -150,115 +133,6 @@ const Team = () => {
                     </div>
                 </div>
             </section>
-            {/* <section id="pricing" className="pricing">
-                <div className="container" data-aos="fade-up">
-                    <div className="section-title">
-                        <h2>Pricing</h2>
-                        <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
-                        </p>
-                    </div>
-                    <div className="row">
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={100}>
-                            <div className="box">
-                                <h3>Free Plan</h3>
-                                <h4>
-                                    <sup>$</sup>0<span>per month</span>
-                                </h4>
-                                <ul>
-                                    <li>
-                                        <i className="bx bx-check" /> Quam adipiscing vitae proin
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nec feugiat nisl pretium
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nulla at volutpat diam uteera
-                                    </li>
-                                    <li className="na">
-                                        <i className="bx bx-x" />{" "}
-                                        <span>Pharetra massa massa ultricies</span>
-                                    </li>
-                                    <li className="na">
-                                        <i className="bx bx-x" />{" "}
-                                        <span>Massa ultricies mi quis hendrerit</span>
-                                    </li>
-                                </ul>
-                                <a href="#" className="buy-btn">
-                                    Get Started
-                                </a>
-                            </div>
-                        </div>
-                        <div
-                            className="col-lg-4 mt-4 mt-lg-0"
-                            data-aos="fade-up"
-                            data-aos-delay={200}
-                        >
-                            <div className="box featured">
-                                <h3>Business Plan</h3>
-                                <h4>
-                                    <sup>$</sup>29<span>per month</span>
-                                </h4>
-                                <ul>
-                                    <li>
-                                        <i className="bx bx-check" /> Quam adipiscing vitae proin
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nec feugiat nisl pretium
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nulla at volutpat diam uteera
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Pharetra massa massa ultricies
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Massa ultricies mi quis hendrerit
-                                    </li>
-                                </ul>
-                                <a href="#" className="buy-btn">
-                                    Get Started
-                                </a>
-                            </div>
-                        </div>
-                        <div
-                            className="col-lg-4 mt-4 mt-lg-0"
-                            data-aos="fade-up"
-                            data-aos-delay={300}
-                        >
-                            <div className="box">
-                                <h3>Developer Plan</h3>
-                                <h4>
-                                    <sup>$</sup>49<span>per month</span>
-                                </h4>
-                                <ul>
-                                    <li>
-                                        <i className="bx bx-check" /> Quam adipiscing vitae proin
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nec feugiat nisl pretium
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Nulla at volutpat diam uteera
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Pharetra massa massa ultricies
-                                    </li>
-                                    <li>
-                                        <i className="bx bx-check" /> Massa ultricies mi quis hendrerit
-                                    </li>
-                                </ul>
-                                <a href="#" className="buy-btn">
-                                    Get Started
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> */}
             <section id="faq" className="faq section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
