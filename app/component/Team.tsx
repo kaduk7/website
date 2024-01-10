@@ -25,7 +25,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Walter White</h4>
+                                    <h4>Wahyu Ningsih</h4>
                                     <span>Chief Executive Officer</span>
                                     <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
                                     <div className="social">
