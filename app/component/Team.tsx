@@ -19,7 +19,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-1.jpg"
+                                        src="assets/img/team/team-2.jpg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -123,10 +123,74 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/_riniianggraeni">
+                                        <a href="https://www.instagram.com/shilviasyafitri/">
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                            <div className="member d-flex align-items-start">
+                                <div className="pic">
+                                    <img
+                                        src="assets/img/team/team-4.jpg"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="member-info">
+                                    <h4>Indah Sekar </h4>
+                                    <span>Staff Admin dan Marketing</span>
+                                    <p>
+                                        Dolorum tempora officiis odit laborum officiis et et accusamus
+                                    </p>
+                                    <div className="social">
+                                        <a href="https://www.instagram.com/indahsekarpratiwi/">
+                                            <i className="ri-instagram-fill" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                            <div className="member d-flex align-items-start">
+                                <div className="pic">
+                                    <img
+                                        src="assets/img/team/team-3.jpg"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="member-info">
+                                    <h4>Rizky Yunasrinato</h4>
+                                    <span>Teknisi</span>
+                                    <p>
+                                        Dolorum tempora officiis odit laborum officiis et et accusamus
+                                    </p>
+                                    <div className="social">
+                                        <a href="https://www.instagram.com/ashenford_/">
+                                            <i className="ri-instagram-fill" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                            <div className="member d-flex align-items-start">
+                                <div className="pic">
+                                    <img
+                                        src="assets/img/team/team-1.jpg"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="member-info">
+                                    <h4>Zul Akmal</h4>
+                                    <span>Programmer</span>
+                                    <p>
+                                        Dolorum tempora officiis odit laborum officiis et et accusamus
+                                    </p>
                                 </div>
                             </div>
                         </div>
