@@ -91,13 +91,13 @@ const Servis = () => {
             <section id="cta" className="cta">
                 <div className="container" data-aos="zoom-in">
                     <div className="row">
-                        <div className="col-lg-9 text-center text-lg-start">
+                        <div className="col-lg-8 text-center text-lg-start">
                             <h3>Belajar dari Keberhasilan dan Kegagalan.</h3>
                             <p>
                                 {" "}
-                                "Lihat Setiap Pengalaman, Baik Sukses Maupun Kegagalan, Sebagai Peluang Untuk Belajar Dan Berkembang. 
-                                Jangan Biarkan Kegagalan Meruntuhkan 
-                                Semangat Anda Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
+                                "Lihat Setiap Pengalaman, Baik Sukses Maupun Gagal, Gunakan Itu Sebagai Pelajaran Untuk Berkembang. 
+                                Jangan Biarkan Kegagalan Meruntuhkan Semangatmu,
+                                Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
                             </p>
                         </div>
                         <div className="col-lg-3 cta-btn-container text-center">
