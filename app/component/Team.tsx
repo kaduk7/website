@@ -7,12 +7,12 @@ const Team = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Tim</h2>
-                        <p>
+                        {/* <p>
                             Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
                             aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
                             quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
                             fugiat sit in iste officiis commodi quidem hic quas.
-                        </p>
+                        </p> */}
                     </div>
                     <div className="row">
                         <div className="col-lg-6" data-aos="zoom-in" data-aos-delay={100}>
