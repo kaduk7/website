@@ -13,7 +13,7 @@ const Footer = () => {
           </p>
           <form action="" method="post">
             <input type="email" name="email" />
-            <input type="submit" defaultValue="Subscribe" />
+            <input type="submit" defaultValue="Langganan" />
           </form>
         </div>
       </div>
