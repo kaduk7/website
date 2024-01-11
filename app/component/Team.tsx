@@ -217,6 +217,29 @@ const Team = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                            <div className="member d-flex align-items-start">
+                                <div className="pic">
+                                    <img
+                                        src="assets/img/team/team-3.jpg"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="member-info">
+                                    <h4>Khairul Anuar</h4>
+                                    <span>Freelance</span>
+                                    <p>
+                                        Dolorum tempora officiis odit laborum officiis et et accusamus
+                                    </p>
+                                    <div className="social">
+                                        <a href="https://www.instagram.com/khairul1011/">
+                                            <i className="ri-instagram-fill" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
