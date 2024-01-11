@@ -6,12 +6,11 @@ const Portofolio = () => {
         <section id="portfolio" className="portfolio">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Portfolio</h2>
+                        <h2>Portofolio</h2>
                         <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
+                            Kami Sudah Membuat Berbagai Proyek Dalam Dunia IT
+                            Terutama Membuat Aplikasi dan Website. Kami Juga Sudah
+                            Melakukan Penyervisan Berbagai Laptop dan PC.
                         </p>
                     </div>
                     <ul
