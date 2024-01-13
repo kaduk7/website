@@ -16,7 +16,7 @@ const Team = () => {
                     </div>
                     <div className="row">
                         <div
-                            className="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay={100}>
+                            className="col-lg-6 mt-4 mt-lg-0x" data-aos="zoom-in" data-aos-delay={100}>
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
