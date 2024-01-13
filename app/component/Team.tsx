@@ -15,32 +15,8 @@ const Team = () => {
                         </p> */}
                     </div>
                     <div className="row">
-                        <div className="col-lg-6" data-aos="zoom-in" data-aos-delay={100}>
-                            <div className="member d-flex align-items-start">
-                                <div className="pic">
-                                    <img
-                                        src="assets/img/team/team-1.jpg"
-                                        className="img-fluid"
-                                        alt=""
-                                    />
-                                </div>
-                                <div className="member-info">
-                                    <h4>Andi Babak, S.Kom.,MM</h4>
-                                    <span>CEO</span>
-                                    <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
-                                    <div className="social">
-                                        <a href="https://www.instagram.com/hks.andi/">
-                                            <i className="ri-instagram-fill" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div
-                            className="col-lg-6 mt-4 mt-lg-0"
-                            data-aos="zoom-in"
-                            data-aos-delay={200}
-                        >
+                            className="col-lg-6 mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay={100}>
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
@@ -63,7 +39,7 @@ const Team = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={300}>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={200}>
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
@@ -84,7 +60,7 @@ const Team = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={400}>
+                        <div className="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay={300}>
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
