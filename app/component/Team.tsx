@@ -113,7 +113,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Indah Sekar </h4>
+                                    <h4>Indah Sekar Pratiwi</h4>
                                     <span>Staff Admin dan Marketing</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
@@ -136,7 +136,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Rizky Yunasrinato</h4>
+                                    <h4>Rizky Yunasrianto</h4>
                                     <span>Teknisi</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
@@ -177,7 +177,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Dina Shilvia</h4>
+                                    <h4>Dina Silvia</h4>
                                     <span>Sekretaris</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
