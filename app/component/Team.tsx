@@ -204,7 +204,7 @@ const Team = () => {
                                 </div>
                                 <div className="member-info">
                                     <h4>Khairul Anuar</h4>
-                                    <span>Freelance</span>
+                                    <span>Teknisi</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
