@@ -7,12 +7,9 @@ const Team = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Tim</h2>
-                        {/* <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
-                        </p> */}
+                        <p>
+                            Kami Memiliki Tim yang Mempunyai Keahlian Di Bidangnya Masing Masing
+                        </p>
                     </div>
                     <div className="row">
                         <div
@@ -110,7 +107,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/indah.jpeg"
+                                        src="assets/img/team/indahsekar.jpg"
                                         className="img-fluid"
                                         alt=""
                                     />
