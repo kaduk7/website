@@ -43,7 +43,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-3.jpg"
+                                        src="assets/img/team/herman.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -64,7 +64,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-4.jpg"
+                                        src="assets/img/team/arini.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -87,7 +87,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-4.jpg"
+                                        src="assets/img/team/fifi.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -110,7 +110,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-4.jpg"
+                                        src="assets/img/team/indah.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -156,7 +156,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-1.jpg"
+                                        src="assets/img/team/akmal.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -174,7 +174,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-2.jpg"
+                                        src="assets/img/team/Dina.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -197,7 +197,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-3.jpg"
+                                        src="assets/img/team/irul.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
