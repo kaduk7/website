@@ -130,7 +130,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/team-3.jpg"
+                                        src="assets/img/team/iki.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
