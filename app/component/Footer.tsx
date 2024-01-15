@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="col-lg-6">
           <h4>Bergabunglah Dengan Kami</h4>
           <p>
-          HIZRATECH menyediakan beragam kapabilitas Pengembangan Perangkat Lunak terhitung Microsoft, Mobile, Web, Java, dll.
+          HIZRATECH Menyediakan Beragam Kapabilitas Pengembangan Perangkat Lunak Terhitung Microsoft, Mobile, Web, Java, dll.
           </p>
           <form action="" method="post">
             <input type="email" name="email" />
@@ -26,7 +26,6 @@ const Footer = () => {
           <h3>HIZRATECH</h3>
           <p>
             Jl. Rambutan, No. 20D, Sidomulyo Timur, Marpoyan Damai, Pekanbaru, Riau 28289 <br />
-            <br />
             Indonesia <br />
             <br />
             <strong>Phone:</strong> 082283048013
