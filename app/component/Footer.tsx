@@ -46,14 +46,14 @@ const Footer = () => {
             <li>
               <i className="bx bx-chevron-right" /> <a href="#services">Pelayanan</a>
             </li>
-            {/* <li>
+            <li>
               <i className="bx bx-chevron-right" />{" "}
               <a href="#">Terms of service</a>
             </li>
             <li>
               <i className="bx bx-chevron-right" />{" "}
               <a href="#">Privacy policy</a>
-            </li> */}
+            </li>
           </ul>
         </div>
         <div className="col-lg-3 col-md-6 footer-links">
