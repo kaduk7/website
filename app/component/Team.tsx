@@ -7,12 +7,9 @@ const Team = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Tim</h2>
-                        {/* <p>
-                            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-                            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-                            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-                            fugiat sit in iste officiis commodi quidem hic quas.
-                        </p> */}
+                        <p>
+                            Kami Memiliki Tim yang Mempunyai Keahlian Di Bidangnya Masing Masing
+                        </p>
                     </div>
                     <div className="row">
                         <div
@@ -204,7 +201,7 @@ const Team = () => {
                                 </div>
                                 <div className="member-info">
                                     <h4>Khairul Anuar</h4>
-                                    <span>Freelance</span>
+                                    <span>Teknisi</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>

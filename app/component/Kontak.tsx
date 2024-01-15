@@ -30,7 +30,7 @@ const Kontak = () => {
                                     <p>082283048013</p>
                                 </div>
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.682399821131!2d101.42424137435262!3d0.4729386637681186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9c1a514ca09%3A0x34397a4cb24839e8!2sPT%20Hizra%20Teknologi%20Konsultan%20Services!5e0!3m2!1sid!2sid!4v1704766144304!5m2!1sid!2sid"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.682399821131!2d101.42424137435262!3d0.4729386637681186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9c1a514ca09%3A0x34397a4cb24839e8!2sPT%20Hizra%20Teknologi%20Konsultan%20Services!5e0!3m2!1sid!2sid!4v1705303683981!5m2!1sid!2sid"
                                     frameBorder={0}
                                     style={{ border: 0, width: "100%", height: 290 }}
                                 />
