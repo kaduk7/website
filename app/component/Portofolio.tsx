@@ -42,7 +42,7 @@ const Portofolio = () => {
                             <div className="portfolio-info">
                                 <h4>iCerdas</h4>
                                 <a
-                                    href="assets/img/portfolio/portfolio-1.jpg"
+                                    href="assets/img/portfolio/portfolio-1.jpg" 
                                     data-gallery="portfolioGallery"
                                     className="portfolio-lightbox preview-link"
                                     title="iCerdas"
