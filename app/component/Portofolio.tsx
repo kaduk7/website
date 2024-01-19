@@ -13,7 +13,7 @@ const Portofolio = () => {
                             Melakukan Penyervisan Berbagai Laptop dan PC.
                         </p>
                     </div>
-                    <ul
+                    {/* <ul
                         id="portfolio-flters"
                         className="d-flex justify-content-center"
                         data-aos="fade-up"
@@ -25,7 +25,7 @@ const Portofolio = () => {
                         <li data-filter=".filter-app">App</li>
                         <li data-filter=".filter-card">Card</li>
                         <li data-filter=".filter-web">Web</li>
-                    </ul>
+                    </ul> */}
                     <div
                         className="row portfolio-container"
                         data-aos="fade-up"
@@ -34,19 +34,18 @@ const Portofolio = () => {
                         <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                             <div className="portfolio-img">
                                 <img
-                                    src="assets/img/portfolio/portfolio-1.jpg"
+                                    src="assets/img/portfolio/icerdas.png"
                                     className="img-fluid"
                                     alt=""
                                 />
                             </div>
                             <div className="portfolio-info">
-                                <h4>App 1</h4>
-                                <p>App</p>
+                                <h4>iCerdas</h4>
                                 <a
                                     href="assets/img/portfolio/portfolio-1.jpg"
                                     data-gallery="portfolioGallery"
                                     className="portfolio-lightbox preview-link"
-                                    title="App 1"
+                                    title="iCerdas"
                                 >
                                     <i className="bx bx-plus" />
                                 </a>
@@ -115,7 +114,7 @@ const Portofolio = () => {
                                 </a>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                        {/* <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                             <div className="portfolio-img">
                                 <img
                                     src="assets/img/portfolio/portfolio-4.jpg"
@@ -282,7 +281,7 @@ const Portofolio = () => {
                                     <i className="bx bx-link" />
                                 </a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>
