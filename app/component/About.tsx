@@ -6,7 +6,7 @@ const About = () => {
             <section id="about" className="about">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
-                        <h2>Tentang Kami</h2>
+                        <h2>Tentang Kam</h2>
                     </div>
                     <div className="row content">
                         <div className="col-lg-6">
