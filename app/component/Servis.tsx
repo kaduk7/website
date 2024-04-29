@@ -94,7 +94,6 @@ const Servis = () => {
                         <div className="col-lg-8 text-center text-lg-start">
                             <h3>Belajar dari Keberhasilan dan Kegagalan.</h3>
                             <p>
-                                {" "}
                                 "Lihat Setiap Pengalaman, Baik Sukses Maupun Gagal, Gunakan Itu Sebagai Pelajaran Untuk Berkembang.
                                 Jangan Biarkan Kegagalan Meruntuhkan Semangatmu,
                                 Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
