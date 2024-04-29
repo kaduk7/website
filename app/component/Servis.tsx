@@ -7,7 +7,7 @@ const Servis = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>PELAYANAN</h2>
-                        <p>
+                        <p style={{ fontFamily: "initial", fontSize: 20 }}>
                             Kami Melayani Berbagai Permasalahan dalam Dunia IT
                         </p>
                     </div>
@@ -24,9 +24,9 @@ const Servis = () => {
                                 <h4>
                                     <a href="">Kinerja</a>
                                 </h4>
-                                <p>
-                                    Jelas Kami Mempunyai Kinerja Yang Sangat Profesional dan 
-                                    Sangat Ahli di Bidangnya Masing-Masing
+                                <p style={{ fontFamily: "revert", fontSize: 15 }}>
+                                    Kami mempunyai kinerja yang sangat Profesional dan
+                                    sangat Ahli di bidangnya masing-masing
                                 </p>
                             </div>
                         </div>
@@ -42,9 +42,9 @@ const Servis = () => {
                                 <h4>
                                     <a href="">Servis</a>
                                 </h4>
-                                <p>
-                                    Kami Disini Juga Melayani Servis Komputer
-                                    Dan Laptop Dengan Kinerja Yang Sangat Baik  
+                                <p style={{ fontFamily: "revert", fontSize: 15 }}>
+                                    Kami disini juga melayani servis komputer
+                                    dan laptop dengan kinerja yang sangat baik
                                 </p>
                             </div>
                         </div>
@@ -60,9 +60,9 @@ const Servis = () => {
                                 <h4>
                                     <a href="">Komponen Komputer</a>
                                 </h4>
-                                <p>
-                                    Disini Kami Menjual Berbagai Kebutuhan Komponen
-                                    Komputer Seperti Casing PC, Laptop, Keyboard dan lainnya.
+                                <p style={{ fontFamily: "revert", fontSize: 15 }}>
+                                    Disini kami menjual berbagai kebutuhan komponen
+                                    komputer seperti Casing PC, Laptop, Keyboard dan lainnya.
                                 </p>
                             </div>
                         </div>
@@ -78,10 +78,10 @@ const Servis = () => {
                                 <h4>
                                     <a href="">Jasa Pembuatan Program</a>
                                 </h4>
-                                <p>
-                                    Kami Disini Bukan Hanya Bisa Servis Laptop Dan Menjual Komponen
-                                    Komputer, Kami Disini Juga Bisa Membuat Program Aplikasi Untuk Mahasiswa
-                                    Terkhususnya Mahasiswa IT
+                                <p style={{ fontFamily: "revert", fontSize: 15 }}>
+                                    Kami disini bukan hanya bisa servis laptop dan menjual komponen
+                                    Komputer, Kami disini juga bisa membuat Program Aplikasi untuk mahasiswa
+                                    terkhususnya mahasiswa IT
                                 </p>
                             </div>
                         </div>
@@ -95,7 +95,7 @@ const Servis = () => {
                             <h3>Belajar dari Keberhasilan dan Kegagalan.</h3>
                             <p>
                                 {" "}
-                                "Lihat Setiap Pengalaman, Baik Sukses Maupun Gagal, Gunakan Itu Sebagai Pelajaran Untuk Berkembang. 
+                                "Lihat Setiap Pengalaman, Baik Sukses Maupun Gagal, Gunakan Itu Sebagai Pelajaran Untuk Berkembang.
                                 Jangan Biarkan Kegagalan Meruntuhkan Semangatmu,
                                 Gunakan Sebagai Pelajaran Untuk Lebih Baik Di Masa Depan."
                             </p>

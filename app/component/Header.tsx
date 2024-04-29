@@ -4,35 +4,40 @@ export default function Header() {
   return (
     <header id="header" className="fixed-top ">
       <div className="container d-flex align-items-center">
-        <h1 className="logo me-auto">
+        {/* <h1 className="logo me-auto">
           <a href="/"><b>Hizratech</b></a>
-        </h1>
+        </h1> */}
         {/* Uncomment below if you prefer to use an image logo */}
-        {/* <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>*/}
+        <a href="/" className="logo me-auto">
+          <img src="assets/img/logo2.png" alt="" width={220}className="img-fluid" />
+        </a>
+        {/* <a href="/" className="logo me-auto">
+          <img src="assets/img/lgo.png" alt="" width={50}className="img-fluid me-2" /><a className=''>Hizratech</a>
+        </a> */}
         <nav id="navbar" className="navbar">
           <ul>
             <li>
-              <a className="nav-link scrollto active" href="#hero">
-              Utama
+              <a className="nav-link scrollto active" href="#hero" style={{fontFamily:'inherit',fontSize:16}}>
+                Home
               </a>
             </li>
             <li>
-              <a className="nav-link scrollto" href="#about">
+              <a className="nav-link scrollto" href="#about" style={{fontFamily:'inherit',fontSize:16}}>
                 Tentang Kami
               </a>
             </li>
             <li>
-              <a className="nav-link scrollto" href="#services">
+              <a className="nav-link scrollto" href="#services" style={{fontFamily:'inherit',fontSize:16}}>
                 Pelayanan
               </a>
             </li>
             <li>
-              <a className="nav-link   scrollto" href="#portfolio">
+              <a className="nav-link   scrollto" href="#portfolio" style={{fontFamily:'inherit',fontSize:16}}>
                 Portfolio
               </a>
             </li>
             <li>
-              <a className="nav-link scrollto" href="#team">
+              <a className="nav-link scrollto" href="#team" style={{fontFamily:'inherit',fontSize:16}}>
                 Tim
               </a>
             </li>
@@ -79,8 +84,8 @@ export default function Header() {
           </ul>
         </li> */}
             <li>
-              <a className="nav-link scrollto" href="#contact">
-                Alamat
+              <a className="nav-link scrollto" href="#contact" style={{fontFamily:'inherit',fontSize:16}}>
+                Kontak Kami
               </a>
             </li>
             <li>

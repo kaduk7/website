@@ -1,16 +1,16 @@
 import React from 'react'
 
 const Portofolio = () => {
-  return (
-    <div>
-        <section id="portfolio" className="portfolio">
+    return (
+        <div>
+            <section id="portfolio" className="portfolio">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Portofolio</h2>
-                        <p>
-                            Kami Sudah Membuat Berbagai Proyek Dalam Dunia IT
-                            Terutama Membuat Aplikasi dan Website. Kami Juga Sudah
-                            Melakukan Penyervisan Berbagai Laptop dan PC.
+                        <p style={{ fontFamily: "initial", fontSize: 20 }}>
+                            Kami sudah membuat berbagai Proyek dalam Dunia IT
+                            terutama membuat Aplikasi dan Website. Kami juga sudah
+                            melakukan penyervisan berbagai Laptop dan PC.
                         </p>
                     </div>
                     {/* <ul
@@ -32,45 +32,57 @@ const Portofolio = () => {
                         data-aos-delay={200}
                     >
                         <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                            <div className="portfolio-img">
-                                <img
-                                    src="assets/img/portfolio/icerdas.png"
-                                    className="img-fluid"
-                                    alt=""
-                                />
-                            </div>
-                            <div className="portfolio-info">
-                                <h4>iCerdas</h4>
-                                <a
-                                    href="assets/img/portfolio/portfolio-1.jpg" 
-                                    data-gallery="portfolioGallery"
-                                    className="portfolio-lightbox preview-link"
-                                    title="iCerdas"
-                                >
-                                    <i className="bx bx-plus" />
-                                </a>
-                                <a
-                                    href="portfolio-details.html"
-                                    className="details-link"
-                                    title="More Details"
-                                >
-                                    <i className="bx bx-link" />
-                                </a>
-                            </div>
+                            <a
+                                href="https://cerdas.hizratech.co.id/"
+                                target='_blank'
+
+                            >
+                                <div className="portfolio-img">
+                                    <img
+                                        src="assets/img/portfolio/icerdas.png"
+                                        className="img-fluid"
+                                        alt=""
+                                    />
+                                </div>
+                                <div className="portfolio-info">
+                                    <h4>i-Cerdas</h4>
+                                    <p>Website</p>
+                                    {/* <a
+                                        href="assets/img/portfolio/portfolio-1.jpg"
+                                        data-gallery="portfolioGallery"
+                                        className="portfolio-lightbox preview-link"
+                                        title="iCerdas"
+                                    >
+                                        <i className="bx bx-plus" />
+                                    </a>
+                                    <a
+                                        href="portfolio-details.html"
+                                        className="details-link"
+                                        title="More Details"
+                                    >
+                                        <i className="bx bx-link" />
+                                    </a> */}
+                                </div>
+                            </a>
                         </div>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <a
+                                href="https://hizrakasir.vercel.app"
+                                target='_blank'
+
+                            >
                             <div className="portfolio-img">
                                 <img
-                                    src="assets/img/portfolio/portfolio-2.jpg"
+                                    src="assets/img/portfolio/hhh.png"
                                     className="img-fluid"
                                     alt=""
                                 />
                             </div>
                             <div className="portfolio-info">
-                                <h4>Web 3</h4>
-                                <p>Web</p>
-                                <a
-                                    href="assets/img/portfolio/portfolio-2.jpg"
+                                <h4>I-Tech Servis</h4>
+                                <p>Website</p>
+                                {/* <a
+                                    href="assets/img/portfolio/zzz.png"
                                     data-gallery="portfolioGallery"
                                     className="portfolio-lightbox preview-link"
                                     title="Web 3"
@@ -83,8 +95,9 @@ const Portofolio = () => {
                                     title="More Details"
                                 >
                                     <i className="bx bx-link" />
-                                </a>
+                                </a> */}
                             </div>
+                            </a>
                         </div>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                             <div className="portfolio-img">
@@ -285,8 +298,8 @@ const Portofolio = () => {
                     </div>
                 </div>
             </section>
-    </div>
-  )
+        </div>
+    )
 }
 
 export default Portofolio

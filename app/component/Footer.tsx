@@ -28,10 +28,10 @@ const Footer = () => {
             Jl. Rambutan, No. 20D, Sidomulyo Timur, Marpoyan Damai, Pekanbaru, Riau 28289 <br />
             Indonesia <br />
             <br />
-            <strong>Phone:</strong> 082283048013
+            <strong>Telepon:</strong> <a href="tel:+6281378755582">0813-7875-5582</a>
             <br />
             <strong>Website:</strong> www.hizratech.co.id
-            <br />
+            <br />  
           </p>
         </div>
         <div className="col-lg-3 col-md-6 footer-links">
@@ -88,10 +88,10 @@ const Footer = () => {
             {/* <a href="#" className="twitter">
               <i className="bx bxl-twitter" />
             </a> */}
-            <a href="https://www.instagram.com/hizratech_konsultan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="instagram">
+            <a href="https://www.instagram.com/hizratech_konsultan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" className="instagram">
               <i className="bx bxl-instagram" />
             </a>
-            <a href="https://www.youtube.com/@hizraofficial" className="youtube">
+            <a href="https://www.youtube.com/@hizraofficial" target="_blank" className="youtube">
               <i className="bx bxl-youtube" />
             </a>
           </div>

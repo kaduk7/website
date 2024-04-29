@@ -10,23 +10,23 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-delay={200}
           >
-            <h1>Hizratech </h1>
-            <h2>
+            <h1 style={{fontSize:55,fontFamily:'initial'}}>Hizratech Konsultan Servis</h1>
+            <h2 style={{fontSize:18,fontFamily:'-moz-initial'}} >
               Hizratech Adalah Konsultan Servis Yang Bergerak Di Bidang IT Dengan 
-              Pengalaman Lebih Dari 10 Tahun
+              Pengalaman Lebih Dari 10 Tahun.
             </h2>
-            <div className="d-flex justify-content-center justify-content-lg-start">
+            {/* <div className="d-flex justify-content-center justify-content-lg-start">
               <a href="#about" className="btn-get-started scrollto">
                 Ayo Mulai
               </a>
-              {/* <a
+              <a
                 href="https://youtu.be/o6Biuy8Lr1c"
                 className="glightbox btn-watch-video"
               >
                 <i className="bi bi-play-circle" />
                 <span>Watch Video</span>
-              </a> */}
-            </div>
+              </a>
+            </div> */}
           </div>
           <div
             className="col-lg-6 order-1 order-lg-2 5"

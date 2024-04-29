@@ -10,7 +10,7 @@ const About = () => {
                     </div>
                     <div className="row content">
                         <div className="col-lg-6">
-                            <p>
+                            <p style={{fontFamily:"initial",fontSize:20}}>
                                 Mewujudkan sistem digital anda bersama kami PT Hizratech Konsultan
                                 Service menyediakan beragam ke fabilitas pengembangan perangkat lunak.
                             </p>
@@ -30,13 +30,13 @@ const About = () => {
                             </ul>
                         </div>
                         <div className="col-lg-6 pt-4 pt-lg-0">
-                            <p>
+                        <p style={{fontFamily:"initial",fontSize:20}}>
                                 Bekerjasama dengan berbagai instansi dan khalayak umum
-                                dan menjadi salah satu partner dalam menelpon kebutuhan sistem digital yang diperlukan seperti sistem manajemen kasir sistem keuangan aplikasi Adsense digital.
+                                dan menjadi salah satu partner dalam menelpon kebutuhan sistem digital yang diperlukan seperti sistem manajemen kasir, sistem keuangan, aplikasi, Adsense digital dsb.
                             </p>
-                            <a href="#" className="btn-learn-more">
+                            {/* <a href="#" className="btn-learn-more">
                                 Pelajari Lebih Lanjut
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ const About = () => {
                             <div className="content">
                                 <h3>
                                     Mungkin Ada Yang Belum Kenal{" "}
-                                    <strong>Apa itu Hizratech itu?</strong>
+                                    <strong>Apa itu Hizratech?</strong>
                                 </h3>
                             </div>
                             <div className="accordion-list">
@@ -59,7 +59,7 @@ const About = () => {
                                             className="collapse"
                                             data-bs-target="#accordion-list-1"
                                         >
-                                            <span>01</span> Apa Hizratech Itu? <i className="bx bx-chevron-down icon-show" />
+                                            <span>01</span> Apa Itu Hizratech? <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
                                         <div
@@ -79,7 +79,7 @@ const About = () => {
                                             data-bs-target="#accordion-list-2"
                                             className="collapsed"
                                         >
-                                            <span>02</span> Apakah Hizratech Sudah Pernah Membuat Aplikasi?{" "}
+                                            <span>02</span> Apakah Hizratech Pernah Membuat Aplikasi?{" "}
                                             <i className="bx bx-chevron-down icon-show" />
                                             <i className="bx bx-chevron-up icon-close" />
                                         </a>
@@ -151,8 +151,8 @@ const About = () => {
                         >
                             <h3>Apa Saja yang Kami Kerjakan di Hizratech?</h3>
                             <p className="fst-italic">
-                                Kami Disini Bukan Hanya Bergerak di Bidang IT, Kami juga Menyediakan Layanan
-                                Service Laptop Dan Kami Juga Mengadakan Podcast Dimana Podcast Tersebut Mengundang Orang Hebat.
+                                Kami disini bukan hanya bergerak di Bidang IT, Kami juga menyediakan layanan
+                                Service Laptop dan kami juga mengadakan Podcast dimana Podcast tersebut mengundang orang hebat.
                             </p>
                             <div className="skills-content">
                                 <div className="progress">

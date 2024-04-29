@@ -150,7 +150,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -1839,4 +1839,136 @@ section {
   #footer .credits {
     padding-top: 4px;
   }
+}
+
+.top_bar {
+  position: relative;
+  background: var(--primary-color-two);
+}
+.top_bar .top_inner {
+  display: table;
+  width: 100%;
+}
+.top_bar .top_inner .common_css {
+  display: table-cell;
+  vertical-align: top;
+  line-height: 50px;
+}
+.top_bar .top_inner .common_css .contntent {
+  position: relative;
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+  vertical-align: top;
+}
+.top_bar .top_inner .common_css .contntent i {
+  position: absolute;
+  left: -25px;
+  top: 0;
+  color: var(--primary-color-one);
+  margin-right: 5px;
+  bottom: 0;
+  margin: auto;
+  font-size: 16px;
+  line-height: 16px;
+  height: 16px;
+}
+.top_bar .top_inner .common_css .contntent .text {
+  position: relative;
+}
+.top_bar .top_inner .common_css .contntent .text small {
+  font-size: 15px;
+  color: #fff;
+  margin-right: 5px;
+}
+.top_bar .top_inner .common_css .contntent .text span, .top_bar .top_inner .common_css .contntent .text a {
+  font-size: 15px;
+  color: var(--text-color-light);
+}
+.top_bar .top_inner .common_css .contntent .text span i, .top_bar .top_inner .common_css .contntent .text a i {
+  position: relative;
+  margin-left: 9px !important;
+  top: inherit;
+  right: inherit;
+  left: inherit;
+  margin: inherit;
+  height: auto;
+  font-size: 13px;
+  color: var(--text-color-light);
+}
+.top_bar .top_inner .common_css .contntent:last-child {
+  margin-right: 0px;
+}
+.top_bar .top_inner .right_side {
+  float: right;
+}
+.top_bar.style_two {
+  position: relative;
+  background: var(--primary-color-one);
+}
+.top_bar.style_two .auto-container {
+  max-width: 1400px;
+}
+.top_bar.style_two .top_inner .common_css .cbutton {
+  top: 8px;
+  margin: 0px;
+}
+.top_bar.style_two .top_inner .common_css .cbutton a {
+  background: rgba(255, 255, 255, 0.1);
+  min-height: 35px;
+  color: #fff;
+  line-height: 35px;
+  display: inline-block;
+  text-transform: inherit;
+  font-weight: 400;
+  font-size: 14px;
+}
+.top_bar.style_two .top_inner .common_css .media small {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.top_bar.style_two .top_inner .common_css .media small, .top_bar.style_two .top_inner .common_css .media i {
+  margin-right: 10px;
+  position: relative;
+  top: inherit;
+  left: inherit;
+  right: inherit;
+  bottom: inherit;
+  color: #fff !important;
+}
+.top_bar.style_two .top_inner .common_css .media a:last-child small, .top_bar.style_two .top_inner .common_css .media a:last-child i {
+  margin-right: 0px;
+}
+.top_bar.style_two .top_inner .common_css i {
+  color: #fff;
+  font-size: 13px;
+}
+.top_bar.style_two .top_inner .common_css .text small {
+  color: #fff;
+}
+.top_bar.style_two .top_inner .common_css .text span, .top_bar.style_two .top_inner .common_css .text a {
+  color: #fff;
+}
+
+.header_boxed.style_four .top_bar .top_inner .common_css .contntent i {
+  color: #fff;
+}
+.header_boxed.style_four .top_bar .top_inner .common_css .contntent .text span, .header_boxed.style_four .top_bar .top_inner .common_css .contntent .text a {
+  color: #fff !important;
+  opacity: 0.8;
+}
+.header_boxed.style_four .top_bar .top_inner .right_side .contntent {
+  margin-left: 0px;
+}
+.header_boxed.style_four .top_bar .top_inner .right_side .contntent.button a i {
+  color: var(--heading-dark);
+  right: unset;
+  left: 5px;
+}
+.header_boxed.style_four .top_bar .top_inner .common_css .contntent .text span i, .header_boxed.style_four .top_bar .top_inner .common_css .contntent .text a i {
+  margin-left: 20px !important;
+}
+
+.top_bar .top_inner .common_css .contntent .text i {
+  display: inline-block !important;
 }

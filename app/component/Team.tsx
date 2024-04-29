@@ -7,7 +7,7 @@ const Team = () => {
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Tim</h2>
-                        <p>
+                        <p style={{fontFamily:"initial",fontSize:20}}>
                             Kami Memiliki Tim yang Mempunyai Keahlian Di Bidangnya Masing Masing
                         </p>
                     </div>
@@ -29,7 +29,7 @@ const Team = () => {
                                         Aut maiores voluptates amet et quis praesentium qui senda para
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/wningsih650/">
+                                        <a href="https://www.instagram.com/wningsih650/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -50,7 +50,7 @@ const Team = () => {
                                     <span>Head Marketing</span>
                                     <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/herman_amg/">
+                                        <a href="https://www.instagram.com/herman_amg/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -73,7 +73,7 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/_riniianggraeni">
+                                        <a href="https://www.instagram.com/_riniianggraeni" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -96,7 +96,7 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/shilviasyafitri/">
+                                        <a href="https://www.instagram.com/shilviasyafitri/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -119,7 +119,7 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/indahsekarpratiwi/">
+                                        <a href="https://www.instagram.com/indahsekarpratiwi/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -142,7 +142,7 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/ashenford_/">
+                                        <a href="https://www.instagram.com/ashenford_/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
@@ -206,7 +206,7 @@ const Team = () => {
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
                                     </p>
                                     <div className="social">
-                                        <a href="https://www.instagram.com/khairul1011/">
+                                        <a href="https://www.instagram.com/khairul1011/" target='_blank'>
                                             <i className="ri-instagram-fill" />
                                         </a>
                                     </div>
