@@ -9,7 +9,7 @@ export default function Header() {
         </h1> */}
         {/* Uncomment below if you prefer to use an image logo */}
         <a href="/" className="logo me-auto">
-          <img src="assets/img/logo2.png" alt="" width={220}className="img-fluid" />
+          <img src="assets/img/logo2.png" alt="" width={170}className="img-fluid" />
         </a>
         {/* <a href="/" className="logo me-auto">
           <img src="assets/img/lgo.png" alt="" width={50}className="img-fluid me-2" /><a className=''>Hizratech</a>
