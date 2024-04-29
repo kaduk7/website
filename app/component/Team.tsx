@@ -1,13 +1,13 @@
 import React from 'react'
 
 const Team = () => {
-  return (
-    <div>
-         <section id="team" className="team section-bg">
+    return (
+        <div>
+            <section id="team" className="team section-bg">
                 <div className="container" data-aos="fade-up">
                     <div className="section-title">
                         <h2>Tim</h2>
-                        <p style={{fontFamily:"initial",fontSize:20}}>
+                        <p style={{ fontFamily: "initial", fontSize: 20 }}>
                             Kami Memiliki Tim yang Mempunyai Keahlian Di Bidangnya Masing Masing
                         </p>
                     </div>
@@ -67,7 +67,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="member-info">
-                                    <h4>Arini Anggraeni</h4>
+                                    <h4>Fatmawati</h4>
                                     <span>Staff Admin dan Marketing</span>
                                     <p>
                                         Dolorum tempora officiis odit laborum officiis et et accusamus
@@ -130,7 +130,7 @@ const Team = () => {
                             <div className="member d-flex align-items-start">
                                 <div className="pic">
                                     <img
-                                        src="assets/img/team/iki.jpeg"
+                                        src="assets/img/team/herman.jpeg"
                                         className="img-fluid"
                                         alt=""
                                     />
@@ -262,7 +262,7 @@ const Team = () => {
                                     data-bs-parent=".faq-list"
                                 >
                                     <p>
-                                        Anda bisa langsung berkonsultasi kepada admin dan seterusnya admin akan 
+                                        Anda bisa langsung berkonsultasi kepada admin dan seterusnya admin akan
                                         memberikan solusi dari permasalah yang anda miliki.
                                     </p>
                                 </div>
@@ -285,7 +285,7 @@ const Team = () => {
                                 >
                                     <p>
                                         Anda bisa membeli produk dari kami dengan cara memesan
-                                        melalui whatshap atau anda bisa langsung datang ke toko kami 
+                                        melalui whatshap atau anda bisa langsung datang ke toko kami
                                         yang berada di  Jl.Rambutan No 20D Sidomulyo Timur, Marpoyan Damai
                                         Pekanbaru, Riau
                                     </p>
@@ -309,8 +309,8 @@ const Team = () => {
                                 >
                                     <p>
                                         Kami menyediakan berbagai macam komponen komputer
-                                        dan kami juga mempunyai aplikasi untuk sekolah yang akan 
-                                        mempermudah sekolah dalam berbagai hal dan kami juga menerima jasa servis laptop 
+                                        dan kami juga mempunyai aplikasi untuk sekolah yang akan
+                                        mempermudah sekolah dalam berbagai hal dan kami juga menerima jasa servis laptop
                                         dan komputer serta kami juga menerima jasa pembuatan program
                                         untuk mahasiswa IT
                                     </p>
@@ -345,8 +345,8 @@ const Team = () => {
                     </div>
                 </div>
             </section>
-    </div>
-  )
+        </div>
+    )
 }
 
 export default Team
